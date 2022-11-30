@@ -1,0 +1,26 @@
+{
+    "id": "2172D75D",
+    "path": "~/Desktop/projects/r-progs/sessional2/lec15.R",
+    "project_path": "lec15.R",
+    "type": "r_source",
+    "hash": "3853525101",
+    "contents": "",
+    "dirty": false,
+    "created": 1669720686722.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,47",
+        "scrollLine": "12"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1667755026,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1667755026,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "CC123920",
+    "path": "~/Desktop/projects/r-progs/sessional1/lec2.R",
+    "project_path": "lec2.R",
+    "type": "r_source",
+    "hash": "233331213",
+    "contents": "",
+    "dirty": false,
+    "created": 1669706011753.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662888369,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662888369,
+    "read_only": false,
+    "read_only_alternatives": []
+}

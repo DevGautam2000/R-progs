@@ -1,0 +1,26 @@
+{
+    "id": "6D472CE1",
+    "path": "~/Desktop/projects/r-progs/sessional1/lec4.R",
+    "project_path": "lec4.R",
+    "type": "r_source",
+    "hash": "3253010355",
+    "contents": "",
+    "dirty": false,
+    "created": 1669706181088.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "30,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662895866,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662895866,
+    "read_only": false,
+    "read_only_alternatives": []
+}
